@@ -1,0 +1,24 @@
+hr{
+
+  background-color: none;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #fa1616;
+}
+
+body {
+background-color: #e4f9ff;
+
+}
+
+h1, h3, h4, h5 {
+
+  color: #0fabbc;
+}
+
+p, li, td, label{
+color: #12cad6;
+
+}
